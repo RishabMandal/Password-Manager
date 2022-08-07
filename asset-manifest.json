@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Password-Manager/static/css/main.68ef2580.css",
+    "main.js": "/Password-Manager/static/js/main.027c8229.js",
+    "static/js/787.f237a53c.chunk.js": "/Password-Manager/static/js/787.f237a53c.chunk.js",
+    "index.html": "/Password-Manager/index.html",
+    "main.68ef2580.css.map": "/Password-Manager/static/css/main.68ef2580.css.map",
+    "main.027c8229.js.map": "/Password-Manager/static/js/main.027c8229.js.map",
+    "787.f237a53c.chunk.js.map": "/Password-Manager/static/js/787.f237a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ef2580.css",
+    "static/js/main.027c8229.js"
+  ]
+}
